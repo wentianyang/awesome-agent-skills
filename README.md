@@ -20,6 +20,7 @@ Agent Skill 是一组结构化的指令、逻辑模式和工具定义，旨在�
 
 ### 🛠️ 核心能力 (Core Capabilities)
 - [Humanizer-zh (人性化重写)](skills/humanizer-zh/) - 去除 AI 生成文本的痕迹，使其听起来更自然、更像人类。
+- [PPT Generator Pro (PPT 生成)](skills/ppt/) - 基于 AI 自动生成高质量 PPT 图片和视频。
 <!-- 待添加核心能力 -->
 
 ### 🧠 进阶工作流 (Advanced Workflows)
