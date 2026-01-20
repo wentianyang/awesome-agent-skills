@@ -1,6 +1,6 @@
 # PPT Generation Skill Requirements
 
-## MODIFIED Requirements
+## ADDED Requirements
 
 ### Requirement: Python Environment Support
 The skill SHALL include dependency definitions to support local Python execution.

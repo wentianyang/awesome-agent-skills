@@ -8,5 +8,5 @@
 - **Update Spec**: 更新 `skill-ppt` 能够描述代码执行能力（可选）。
 
 ## Impact
-- **Affected specs**: `skill-ppt` (MODIFIED).
+- **Affected specs**: `skill-ppt` (ADDED).
 - **Affected code**: `skills/ppt/`.
